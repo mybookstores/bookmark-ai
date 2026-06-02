@@ -1,0 +1,18 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="0.55" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="28" y1="18" x2="80" y2="62" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="108" height="108" rx="28" fill="url(#bg)"/>
+  <path d="M28 18C44 14 58 12 70 12C86 12 100 15 112 22V44C96 33 82 29 66 29C52 29 39 32 28 38V18Z" fill="url(#shine)"/>
+  <path d="M45 34C45 30.6863 47.6863 28 51 28H77C80.3137 28 83 30.6863 83 34V88.6C83 91.3197 79.9221 92.9001 77.7093 91.3208L64 81.5356L50.2907 91.3208C48.0779 92.9001 45 91.3197 45 88.6V34Z" fill="white"/>
+  <path d="M91.5 32L94.5806 39.4194L102 42.5L94.5806 45.5806L91.5 53L88.4194 45.5806L81 42.5L88.4194 39.4194L91.5 32Z" fill="#FDE68A"/>
+  <circle cx="101.5" cy="26.5" r="3.5" fill="#F8FAFC" fill-opacity="0.85"/>
+</svg>
