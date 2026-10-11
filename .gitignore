@@ -2,3 +2,6 @@ node_modules/
 dist/
 .DS_Store
 *.local
+
+# Next.js build cache (误落在仓库内的嵌套目录)
+.next/
